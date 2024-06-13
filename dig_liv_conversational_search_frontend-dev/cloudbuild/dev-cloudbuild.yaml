@@ -1,0 +1,16 @@
+steps:
+# Build the container image
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', '${_LOCATION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/${_IMAGE}:$SHORT_SHA', '.']
+# Push the container image to Container Registry
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', '${_LOCATION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/${_IMAGE}:$SHORT_SHA']
+# Deploy container image to Cloud Run
+images:
+- '${_LOCATION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/${_IMAGE}:$SHORT_SHA'
+substitutions:
+  _REPOSITORY:  insurance-va-frontend # default value
+  _IMAGE:  insurance-va-frontend # default value
+  _LOCATION: us-central1 # default value
+options:
+    machineType: 'E2_HIGHCPU_8'

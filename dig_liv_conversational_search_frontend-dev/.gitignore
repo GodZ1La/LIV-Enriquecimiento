@@ -1,0 +1,38 @@
+# Build artifacts
+/dist
+
+# Editor-specific files
+.vscode/
+.idea/
+sublime-project
+
+# Node.js runtime files
+node_modules/
+
+# Environment specific files
+.env*
+
+# Test coverage reports
+coverage/
+
+# Compiled Typescript (if using Typescript)
+*.tsbuildinfo
+
+# IDE specific files (add your IDE here)
+*.IntelliJIdea.dir
+
+# Temporary files from package managers
+npm-debug.log
+yarn.lock
+
+# OS specific files
+.DS_Store
+
+# Linter Output
+eslint*.json
+
+# Version control noise
+.gitattributes
+
+# Any other editor config files you may use
+*.editorconfig

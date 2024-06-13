@@ -1,0 +1,137 @@
+{
+    "text_message": "Encontr\u00e9 estas chamarras de la NBA para hombre: una chamarra impermeable de los Lakers a $720.30, una chamarra impermeable de los Chicago Bulls a $1699.00, una chamarra New Era impermeable de los Chicago Bulls a $3299.00, una chamarra Mitchell & Ness de los Chicago Bulls a $2599.00 y una chamarra New Era impermeable de Los Angeles Lakers a $3299.00.",
+    "output": {
+        "records": [
+            {
+                "productId": "1147298962",
+                "title": "Chamarra NBA impermeable Los Angeles Lakers para hombre",
+                "priceInfo": {
+                    "price": 720.3,
+                    "originalPrice": 1029.0
+                },
+                "images": [
+                    {
+                        "uri": "largeImage##https://ss205.liverpool.com.mx/lg/1147298982.jpg",
+                        "height": 250,
+                        "width": 250
+                    },
+                    {
+                        "uri": "thumbnailImage##https://ss205.liverpool.com.mx/xl/1147298982.jpg",
+                        "height": 250,
+                        "width": 250
+                    },
+                    {
+                        "uri": "smallImage##https://ss205.liverpool.com.mx/sm/1147298982.jpg",
+                        "height": 250,
+                        "width": 250
+                    }
+                ],
+                "productUrl": "https://www.liverpool.com.mx/tienda/pdp/Chamarra-NBA-impermeable-Los-Angeles-Lakers-para-hombre/1147298962"
+            },
+            {
+                "productId": "1147299012",
+                "title": "Chamarra NBA impermeable Chicago Bulls para hombre",
+                "priceInfo": {
+                    "price": 1699.0,
+                    "originalPrice": 1699.0
+                },
+                "images": [
+                    {
+                        "uri": "smallImage##https://ss205.liverpool.com.mx/sm/1147300537.jpg",
+                        "height": 250,
+                        "width": 250
+                    },
+                    {
+                        "uri": "thumbnailImage##https://ss205.liverpool.com.mx/xl/1147300537.jpg",
+                        "height": 250,
+                        "width": 250
+                    },
+                    {
+                        "uri": "largeImage##https://ss205.liverpool.com.mx/lg/1147300537.jpg",
+                        "height": 250,
+                        "width": 250
+                    }
+                ],
+                "productUrl": "https://www.liverpool.com.mx/tienda/pdp/Chamarra-NBA-impermeable-Chicago-Bulls-para-hombre/1147299012"
+            },
+            {
+                "productId": "1143817621",
+                "title": "Chamarra New Era impermeable Chicago Bulls NBA unisex",
+                "priceInfo": {
+                    "price": 3299.0,
+                    "originalPrice": 3299.0
+                },
+                "images": [
+                    {
+                        "uri": "thumbnailImage##https://ss205.liverpool.com.mx/xl/1143817659.jpg",
+                        "height": 250,
+                        "width": 250
+                    },
+                    {
+                        "uri": "largeImage##https://ss205.liverpool.com.mx/lg/1143817659.jpg",
+                        "height": 250,
+                        "width": 250
+                    },
+                    {
+                        "uri": "smallImage##https://ss205.liverpool.com.mx/sm/1143817659.jpg",
+                        "height": 250,
+                        "width": 250
+                    }
+                ],
+                "productUrl": "https://www.liverpool.com.mx/tienda/pdp/Chamarra-New-Era-impermeable-Chicago-Bulls-NBA-unisex/1143817621"
+            },
+            {
+                "productId": "99967542067",
+                "title": "Chamarra Mitchell & Ness Chicago Bulls para hombre",
+                "priceInfo": {
+                    "price": 2599.0,
+                    "originalPrice": 3199.0
+                },
+                "images": [
+                    {
+                        "uri": "largeImage##https://ss205.liverpool.com.mx/lg/1149319561.jpg",
+                        "height": 250,
+                        "width": 250
+                    },
+                    {
+                        "uri": "thumbnailImage##https://ss205.liverpool.com.mx/xl/1149319561.jpg",
+                        "height": 250,
+                        "width": 250
+                    },
+                    {
+                        "uri": "smallImage##https://ss205.liverpool.com.mx/sm/1149319561.jpg",
+                        "height": 250,
+                        "width": 250
+                    }
+                ],
+                "productUrl": "https://www.liverpool.com.mx/tienda/pdp/Chamarra-Mitchell-&-Ness-Chicago-Bulls-para-hombre/99967542067"
+            },
+            {
+                "productId": "1143817779",
+                "title": "Chamarra New Era impermeable Los Angeles Lakers NBA",
+                "priceInfo": {
+                    "price": 3299.0,
+                    "originalPrice": 3299.0
+                },
+                "images": [
+                    {
+                        "uri": "largeImage##https://ss205.liverpool.com.mx/lg/1143817799.jpg",
+                        "height": 250,
+                        "width": 250
+                    },
+                    {
+                        "uri": "smallImage##https://ss205.liverpool.com.mx/sm/1143817799.jpg",
+                        "height": 250,
+                        "width": 250
+                    },
+                    {
+                        "uri": "thumbnailImage##https://ss205.liverpool.com.mx/xl/1143817799.jpg",
+                        "height": 250,
+                        "width": 250
+                    }
+                ],
+                "productUrl": "https://www.liverpool.com.mx/tienda/pdp/Chamarra-New-Era-impermeable-Los-Angeles-Lakers-NBA/1143817779"
+            }
+        ]
+    }
+}
